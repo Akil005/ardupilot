@@ -42,3 +42,6 @@
 	path = modules/Micro-CDR
 	url = https://github.com/ardupilot/Micro-CDR.git
 	branch = develop
+[submodule "modules/wolfssl"]
+	path = modules/wolfssl
+	url = https://github.com/ardupilot/wolfssl
